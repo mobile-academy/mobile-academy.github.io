@@ -4,7 +4,7 @@
 
 url: http://mobile-academy.io
 title: Mobile Academy
-email: your-email@mobile-academy.io
+email: hello@mobile-academy.io
 author: Mobile Academy
 description: > # "Write an awesome description for your new site here. 
   Mobile Academy is an organistion that conducts workshops related to iOS application develpoment.
@@ -29,3 +29,4 @@ social:
     url: https://twitter.com/mobile-academy
   - title: github
     url: https://github.com/mobile-academy
+  

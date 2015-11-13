@@ -33,17 +33,19 @@
 <section id="home">
 <!-- Header -->
 	<div class="intro-header">
-
 		<div class="container">
-
-			<div class="row">
-				<div class="col-lg-12">
-					<div class="intro-message">
-                        <!-- <img src="img/mobile-academy.png" width="400"> -->
-						<h1>{{ page.title }}</h1>
+			<div class="row">                
+				<div class="col-lg-12">                    
+                    <div class="intro-logo">
+                        <img src="img/mobile-academy.png" alt="Mobile Academy Logo">
+                    </div>
+					<div class="intro-message">                                                
 						<h3>{{ page.subTitle }}</h3>
 						<hr class="intro-divider">
 						<ul class="list-inline intro-social-buttons">
+                            <li>
+                                <a href="mailto:{{ site.email }}" class="btn btn-default btn-lg"><i class="fa fa-envelope fa-fw"></i><span class="network-name">E-Mail</span></a>
+                            </li>
 							{% for social in site.social %}
 							<li>
 								<a href="{{ social.url }}" class="btn btn-default btn-lg"><i class="fa fa-{{ social.title }} fa-fw"></i> <span class="network-name">{{ social.title }}</span></a>

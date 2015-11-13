@@ -37,8 +37,8 @@ h6 {
 
 .intro-message {
     position: relative;
-    padding-top: 20%;
-    padding-bottom: 20%;
+    padding-top: 0%;
+    padding-bottom: 0%;
 }
 
 .intro-message > h1 {
@@ -50,12 +50,19 @@ h6 {
 .intro-divider {
     width: 400px;
     border-top: 1px solid #f8f8f8;
-    border-bottom: 1px solid rgba(0,0,0,0.2);
+    border-bottom: 1px solid rgba(0,0,0,0);
 }
 
 .intro-message > h3 {
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    /*text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
 }
+
+.intro-logo {
+    position: relative;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
 
 @media(max-width:767px) {
     .intro-message {
@@ -118,7 +125,7 @@ h6 {
 
 .banner h2 {
     margin: 0;
-    text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+    text-shadow: 2px 2px 3px rgba(0,0,0,0);
     font-size: 3em;
 }
 

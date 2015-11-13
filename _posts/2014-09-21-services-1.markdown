@@ -6,4 +6,6 @@ title: Swift iOS TDD Workshop
 description: |
 ---
 
-Re-edtion of well known Objective-C TDD workshop.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+
+<a href="#" class="btn btn-info" role="button">Sign Up</a>
