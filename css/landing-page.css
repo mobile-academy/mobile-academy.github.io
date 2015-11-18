@@ -4,6 +4,30 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+ @font-face {
+   font-family: 'Josefin Sans Regular';
+
+   src: url('../fonts/JosefinSans-Regular.ttf') format('truetype');
+ }
+
+ .josefin-regular {
+    font-family: 'Josefin Sans Regular'
+ }
+
+ @font-face {
+   font-family: 'Josefin Sans Light';
+
+   src: url('../fonts/JosefinSans-Light.ttf') format('truetype');
+ }
+
+ .josefin-light {
+    font-family: 'Josefin Sans Light'
+ }
+
+.logo-title {
+  font-size: 100px;
+}
+
 body,
 html {
     width: 100%;
