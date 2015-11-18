@@ -1,11 +1,13 @@
 ---
 layout: default
-img: ipad.png
+img: swift.jpg
 category: Workshops
 title: Swift iOS TDD Workshop
 description: |
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Ever wanted to start writing tests for your applications, but you had no idea how to start? Did you have problems with writing tests for your Swift code? Or perhaps you just want to increase your TDD skills?
 
-<a href="#" class="btn btn-info" role="button">Sign Up</a>
+Sounds like you're a perfect match for our Swift TDD workshop! Register for our newsletter to be one of the first to learn about upcoming editions!
+
+<a href="/register" class="btn btn-info" role="button">Register</a>
