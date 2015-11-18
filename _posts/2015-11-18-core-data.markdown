@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Workshops
-title: Objective-C iOS TDD Workshop
+title: Core Data Workshop
 description: |
 ---
 
