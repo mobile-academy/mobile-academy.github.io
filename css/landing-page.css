@@ -65,6 +65,18 @@ h6 {
     height: auto;
 }
 
+.hcenter {
+    text-align: center;
+}
+
+.top-buffer {
+  padding-top: 50px;
+}
+
+.bottom-buffer {
+  padding-bottom: 50px;
+}
+
 .img-content {
     height: auto;
     display: block;
