@@ -12,4 +12,4 @@ We provide great introduction to the UICollectionView subject! Register for our 
 
 This workshop is available in Objective-C.
 
-<a href="#" class="btn btn-info" role="button">Sign Up</a>
+<a href="#" class="btn btn-info" role="button">Let me know about upcoming workshop!</a>
