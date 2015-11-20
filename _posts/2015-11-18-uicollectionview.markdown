@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ipad.png
+img: 45.jpg
 category: Workshops
 title: UICollectionView iOS Workshop
 description: |
