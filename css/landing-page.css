@@ -50,12 +50,20 @@ h6 {
     font-weight: 400;
 }
 
+.header-title {
+    font-size: 1.5em;
+}
+
+.header-menu {
+    font-size: 1.3em;
+}
+
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg-2_Fotor.jpg) no-repeat center center;
+    background: url(../img/intro-bg-new.jpg) no-repeat center center;
     background-size: cover;
 }
 

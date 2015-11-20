@@ -9,19 +9,19 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand page-scroll" href="#home">{{ site.title }}</a>
+            <a class="navbar-brand page-scroll header-title josefin-regular" href="#home">{{ site.title }}</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
             	<li>
-                    <a class="page-scroll" href="#about">About</a>
+                    <a class="page-scroll header-menu josefin-regular" href="#about">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#workshops">Workshops</a>
+                    <a class="page-scroll header-menu josefin-regular" href="#workshops">Workshops</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
+                    <a class="page-scroll header-menu josefin-regular" href="#contact">Contact</a>
                 </li>
             </ul>
         </div>
@@ -37,7 +37,7 @@
 			<div class="row">
 				<div class="col-lg-12">
                     <div class="intro-logo">
-                        <object type="image/svg+xml" data="img/Mobile-Academy-black.svg">Your browser does not support SVG.</object>
+                        <object type="image/svg+xml" data="img/Mobile-Academy-white.svg">Your browser does not support SVG.</object>
                         <h1 class="josefin-light logo-title">MOBILE<br/>ACADEMY</h1>
                     </div>
 					<div class="intro-message">
@@ -45,11 +45,11 @@
 						<hr class="intro-divider">
 						<ul class="list-inline intro-social-buttons">
                             <li>
-                                <a href="mailto:{{ site.email }}"><i class="fa fa-envelope fa-fw fa-3x"></i></a>
+                                <a href="mailto:{{ site.email }}"><i style="color: white;" class="fa fa-envelope fa-fw fa-3x"></i></a>
                             </li>
 							{% for social in site.social %}
 							<li>
-								<a href="{{ social.url }}"><i class="fa fa-{{ social.title }} fa-fw fa-3x"></i></a>
+								<a href="{{ social.url }}"><i style="color: white;" class="fa fa-{{ social.title }} fa-fw fa-3x"></i></a>
 							</li>
 							{% endfor %}
 						</ul>
