@@ -6,6 +6,10 @@ title: Core Data Workshop
 description: |
 ---
 
-Chcielibyście zacząć pisać testy do swoich aplikacji, ale macie problem z wystartowaniem? Macie trudność z testowaniem w Swiftcie? A może po prostu chcecie podszkolić się w TDD?
+If you want to learn how to use Core Data successfully and avoid many pitfalls that await within ints roots you should come visit our workshop. You'll learn how Core Data is actually built, what components does it consist of and how they work together.
+
+Moreover you'll find out how to use multithreading with Core Data without random crashes and, last but not least, you'll learn how to deal with performance issues and to do about them.
+
+This workshop is available in Objective-C.
 
 <a href="#" class="btn btn-info" role="button">Let me know about upcoming workshop!</a>
