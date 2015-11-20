@@ -46,14 +46,14 @@
 						<h3 class="josefin-regular">{{ page.subTitle }}</h3>
 						<hr class="intro-divider">
 						<ul class="list-inline intro-social-buttons">
-                            <li>
-                                <a href="mailto:{{ site.email }}"><i style="color: white;" class="fa fa-envelope fa-fw fa-3x"></i></a>
-                            </li>
-							{% for social in site.social %}
-							<li>
-								<a href="{{ social.url }}"><i style="color: white;" class="fa fa-{{ social.title }} fa-fw fa-3x"></i></a>
-							</li>
-							{% endfor %}
+                <li>
+                    <a href="mailto:{{ site.email }}" target="_blank><i style="color: white;" class="fa fa-envelope fa-fw fa-2x"></i></a>
+                </li>
+  							{% for social in site.social %}
+  							<li>
+  								<a href="{{ social.url }}" target="_blank"><i style="color: white;" class="fa fa-{{ social.title }} fa-fw fa-2x"></i></a>
+  							</li>
+  							{% endfor %}
 						</ul>
 					</div>
 				</div>
