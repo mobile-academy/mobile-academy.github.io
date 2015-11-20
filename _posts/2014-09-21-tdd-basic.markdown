@@ -12,4 +12,4 @@ Sounds like you're a perfect match for our Swift TDD workshop! Register for our 
 
 This workshop is available in both Swift and Objective-C.
 
-<a href="/register" class="btn btn-info" role="button">Let me know about upcoming worksh</a>
+<a href="/register" class="btn btn-info" role="button">Let me know about upcoming workshop!</a>
