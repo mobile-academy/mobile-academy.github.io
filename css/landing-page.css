@@ -58,8 +58,17 @@ h6 {
     font-size: 1.3em;
 }
 
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+    height: auto;
+}
+
 .img-content {
-    
+    height: auto;
+    display: block;
+    max-width: 100%;
 }
 
 .intro-header {
