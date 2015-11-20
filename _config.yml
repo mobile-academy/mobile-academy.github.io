@@ -6,11 +6,10 @@ url: http://mobile-academy.io
 title: Mobile Academy
 email: hello@mobile-academy.io
 author: Mobile Academy
-description: > # "Write an awesome description for your new site here.
-  Mobile Academy is an organistion that conducts workshops related to iOS application develpoment.
-about: 'Alek to boss'
+description: Mobile Academy is an organistion that conducts workshops related to iOS application develpoment.
+about: Mobile Academy is an organistion that conducts workshops related to iOS application develpoment.
 copyright: 'Copyright &copy; 2015 Mobile Academy. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+credits: ''
 
 # ----------------------- #
 #    Jekyll & Plugins     #
