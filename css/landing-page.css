@@ -120,6 +120,18 @@ h6 {
     padding-bottom: 2%;
 }
 
+/* General */
+
+.black-text {
+  color: black;
+}
+
+.btn-clear-background {
+  background:none;
+  border:none;
+  box-shadow:none;
+}
+
 /* Form */
 .form-container {
   margin-left: auto;

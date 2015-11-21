@@ -20,9 +20,6 @@
                 <li>
                     <a class="page-scroll header-menu josefin-regular" href="#workshops">Workshops</a>
                 </li>
-                <li>
-                    <a class="page-scroll header-menu josefin-regular" href="#contact">Contact</a>
-                </li>
             </ul>
         </div>
         <!-- /.navbar-collapse -->
@@ -47,7 +44,9 @@
 						<hr class="intro-divider">
 						<ul class="list-inline intro-social-buttons">
                 <li>
-                    <a href="mailto:{{ site.email }}" target="_blank"><i style="color: white;" class="fa fa-envelope fa-fw fa-2x"></i></a>
+                  <div class="black-text">
+                    <button type="button" class="btn-clear-background" data-toggle="popover" data-placement="top" data-content="hello@mobile-academy.io"><i style="color: white;" class="fa fa-envelope fa-fw fa-2x"></i></button>
+                  </div>
                 </li>
   							{% for social in site.social %}
   							<li>
