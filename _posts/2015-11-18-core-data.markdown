@@ -12,4 +12,4 @@ Moreover you'll find out how to use multithreading with Core Data without random
 
 This workshop is available in Objective-C.
 
-<a href="#" class="btn btn-info" role="button">Let me know about upcoming workshop!</a>
+<a href="/register" class="btn btn-info" role="button">Let me know about upcoming workshop!</a>
