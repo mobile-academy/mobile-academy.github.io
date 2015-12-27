@@ -2,7 +2,7 @@
 layout: default
 img: 45.JPG
 category: Workshops
-title: UICollectionView iOS Workshop
+title: UICollectionView Workshop
 description: |
 ---
 
