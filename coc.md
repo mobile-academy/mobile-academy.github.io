@@ -39,7 +39,7 @@ We avoid using offensive topics as a form of humor.
 
 **These things are NOT OK.**
 
-### If you say something that is found offensive, and you are called out on it, let￢ﾀﾙs:
+### If you say something that is found offensive, and you are called out on it, let's:
 
 - Listen without interruption.
 - Believe what the person is saying and do not attempt to disqualify what they have to say.
