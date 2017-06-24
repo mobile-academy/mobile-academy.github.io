@@ -10,6 +10,6 @@ UICollectionView is a very powerful component in UIKit. Every iOS developer has 
 
 We provide great introduction to the UICollectionView subject! Register for our newsletter to be one of the first to learn about upcoming editions!
 
-This workshop is available in Objective-C.
+This workshop is available in Swift & Objective-C.
 
 <a href="/register" class="btn btn-info" role="button">Let me know about upcoming workshop!</a>
